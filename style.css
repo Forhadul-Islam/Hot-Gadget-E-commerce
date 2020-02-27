@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-bottom: 35px;
+    margin-top: 30px;
+}
+.head-section{
+    margin: 0 10px 15px 10px;
+}
+.nav-link{
+    font-size: 20px ;
+}
+.navbar-brand img{
+    width: 130px;
+}
+.carousel-item{
+    background-color: rgb(235, 223, 235);
+    border-radius: 10px;
+}
+.button-buy-now{
+    background-color: rgb(0, 0, 0);
+    color: rgb(243, 234, 234);
+    border: none;
+    padding: 8px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.carousel-item{
+    padding: 10px 70px;
+}
+.slider{
+    
+}
+.see-all{
+    color: rgb(221, 14, 83);
+}
+.smartphone h3{
+    color: rgb(102, 102, 102);
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+    text-align: center;
+}
+.card-footer h3{
+    color:rgb(149,0, 0) ;
+}
+.phone .card{
+    border: none;
+    box-shadow: lightgray 5px 5px 10px;
+}
+.card-body{
+    text-align: center;
+}
+.cat-img1 , .cat-img2{
+    box-shadow:  10px 10px 15px lightgray;
+    border-radius:5px;
+}
+.cat-img1{
+    text-align: center;
+    padding: 0px;
+
+}
+.cat-img2{
+    text-align:center;
+    margin-top: 10px;
+    padding: 10px;
+}
+.category h4{
+    text-align: center;
+    color:#5f22287d;
+}
+.cat{
+    border: 0px solid #000000;
+    width: 350px;
+    background-color: #e7d9c1;
+    border-radius: 25px;
+    color: #366264;
+    margin-bottom: -14px;
+    margin-top: 73px;
+}
+.form{
+    border: 1px solid rgb(80, 77, 77);
+    padding: 10px;
+    background-color: rgb(233, 219, 219);
+    border-radius: 5px;
+}
+.cat h3{
+    background-color: ;
+}
+footer{
+    text-align: center;
+    margin-bottom: 10px;
+}
